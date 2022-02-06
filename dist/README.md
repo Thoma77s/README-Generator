@@ -1,5 +1,7 @@
-# README-Generator
 
+<h1 align="center">README Generator </h1>
+
+![badge](https://img.shields.io/badge/license-Academic-brightgreen)<br />
 ## Description
  This is an app for developers who want to generate professional Readme for their projects
 
