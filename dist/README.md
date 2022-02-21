@@ -1,9 +1,9 @@
 
-<h1 align="center">README Generator </h1>
+<h1 align="center">Note Taker </h1>
 
 ![badge](https://img.shields.io/badge/license-Academic-brightgreen)<br />
 ## Description
- This is an app for developers who want to generate professional Readme for their projects
+ This is an app that allows users to take notes and add notes to side bar to track them. The user can then delete notes they need to. 
 
 
 ## Table of Contents
@@ -17,11 +17,11 @@
 
 
 ## Installation
- NPM Init and Npm install inquirer
+ To run you must npm init, and then install express. To run you must activate the server on port 3001
 
 
 ## Usage
- 
+ To use activate the server and navigate to http://localhost:3001
 
 
 ## License
@@ -31,11 +31,11 @@ This application is covered by the Academic license.
 
 
 ## Contributing
- I was the only one who contributed to this project
+ N/A
 
 
 ## Tests
- just get into your terminal, and after installing the correct packages type node index to start the program
+ N/A
 
  
 ## Questions
